@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\bin\Debug\Proyecto1ApliConsola.exe.config
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\bin\Debug\Proyecto1ApliConsola.exe
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\bin\Debug\Proyecto1ApliConsola.pdb
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\obj\Debug\Proyecto1ApliConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\obj\Debug\Proyecto1ApliConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\obj\Debug\Proyecto1ApliConsola.exe
+C:\Users\Usuario\Documents\Carol\conso\Proyecto1ApliConsola\obj\Debug\Proyecto1ApliConsola.pdb
